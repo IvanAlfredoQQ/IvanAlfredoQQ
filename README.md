@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ivan Alfredo Quiroz Quiroz</h1>
 <h3 align="center">A fullstack developer</h3>
 
-- 🔭 I’m currently working on [MediLab Manager](https://medilab-manager.vercel.app/)
+- 🔭 I’m currently working on a [personal project for my bussiness]
 
-- 🌱 I’m currently learning **TypeScript & Several Frontend Frameworks**
+- 🌱 I’m currently learning **TypeScript and testing Frontend frameworks like NextJS 13, Vite**
 
 - 📫 How to reach me **ivan.alfredo.q.q@gmail.com**
 
