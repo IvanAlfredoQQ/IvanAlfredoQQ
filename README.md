@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Alfredo Quiroz Quiroz</h1>
 <h3 align="center">A fullstack developer</h3>
 
-- 🔭 I’m currently working on [[OctopusProptech](https://github.com/IAQQ-Octopus)]
+- 🔭 I’m currently working on [OctopusProptech](https://github.com/IAQQ-Octopus)
 
 - 🌱 I’m currently learning **TypeScript and testing Frontend frameworks like NextJS 13, Vite**
 
